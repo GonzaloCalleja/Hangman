@@ -1,5 +1,7 @@
 ## Hangman game
 
-short 1-4 char
-medium 5-8 char
-long 9+ char
+version of the hangman game with simple GUI
+Problems to fix:
+
+1) GUI is affected by the current state of the game in undesired ways - Improve Tkinter knowledge
+2) Code is not clean and ordered
